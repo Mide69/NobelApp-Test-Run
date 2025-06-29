@@ -21,7 +21,7 @@ permissions:
   security-events: write
 
 jobs:
-  # Job 1: Code Quality Checks
+  # Job 1: Code Quality Checks to check for code's quality
   quality:
     name: Code Quality
     runs-on: ubuntu-latest
