@@ -3,6 +3,11 @@
   "version": "1.0.0",
   "description": "Simple app to display Nobel Prize winners",
   "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mide69/NobelApp-Test-Run.git"
+  },
+  "author": "Mide69",
   "scripts": {
     "start": "node server.js",
     "test": "echo \"No tests specified\""
@@ -11,5 +16,4 @@
     "express": "^4.18.2",
     "axios": "^1.6.0"
   }
-
 }
