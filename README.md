@@ -10,6 +10,10 @@ A Node.js web application that displays Nobel Prize winners from the previous 5 
 - Advanced GitHub Actions pipeline with multi-OS testing
 - Security scanning and code quality checks
 
+
+![Screenshot (75)](https://github.com/user-attachments/assets/8fadd2d7-ecaa-4873-a2ed-0937a2583f2e)
+![Screenshot (74)](https://github.com/user-attachments/assets/f8f8ebc8-248a-4cc4-9919-b59edf7b9ef7)
+
 ## Quick Start
 
 ### Prerequisites
@@ -71,6 +75,8 @@ The app integrates with the [Nobel Prize API](https://api.nobelprize.org/) to fe
 ├── LICENSE                   # Project license
 └── README.md                 # This file
 ```
+
+
 
 ## Contributing
 
